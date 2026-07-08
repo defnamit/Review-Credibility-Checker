@@ -1,0 +1,501 @@
+reviewer_id,reviewer_name,platform,review_text,rating,review_date,account_age_days,total_reviews,verified_purchase,review_length_words,all_caps_ratio,exclamation_count,repeated_phrases,same_day_reviews,avg_rating_given,profile_photo,classification
+R001,InfluencerLife95,MakeMyTrip,Received complimentary sample. Results seem positive after short-term use.,4,2024-08-04,845,477,No,9,0.027,0,1,2,4.3,Yes,Suspicious
+R002,InfluencerLife45,Trustpilot,Brand collaboration. Love supporting small businesses. Quality feels authentic.,4,2024-10-13,698,312,No,9,0.038,0,1,1,4.3,Yes,Suspicious
+R003,BestBuyer2024161,Zomato,Great great great great great great great great quality!,5,2024-12-27,3,31,No,9,0.018,1,1,23,4.6,No,Fake
+R004,InfluencerLife9,Zomato,"I review products professionally. Solid build, average performance. 6/10.",5,2024-11-06,522,88,Yes,9,0.027,0,1,2,4.7,No,Suspicious
+R005,Neha Gupta,Nykaa,Good product overall. Setup instructions could be clearer. Performance is satisfactory.,3,2024-10-04,750,41,Yes,11,0.034,0,0,0,2.9,Yes,Genuine
+R006,TruthTeller906,MakeMyTrip,Best product on the market! Everyone should buy this immediately!,5,2024-03-12,4,62,No,10,0.031,2,1,52,4.7,No,Fake
+R007,Amit Kumar,Google Play,Good value for money. Works as described. Minor scratches on arrival but functional.,5,2024-08-19,1929,34,Yes,13,0.036,0,0,1,3.8,Yes,Genuine
+R008,Ravi Shankar,Swiggy,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,5,2024-02-08,1004,49,Yes,12,0.025,0,0,1,3.2,Yes,Genuine
+R009,Deepa Nair,Trustpilot,Service was okay. Food arrived slightly late but taste was good. Will order again.,3,2024-03-11,439,16,Yes,14,0.037,0,0,0,3.5,Yes,Genuine
+R010,Rekha Singh,Swiggy,Nice ambience but portions are small for the price. Desserts were excellent though.,5,2024-11-11,1614,55,Yes,13,0.024,0,0,0,3.3,Yes,Genuine
+R011,PaidReviewer6,Amazon,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,4,2024-07-11,1367,404,No,12,0.037,0,1,1,4.7,Yes,Suspicious
+R012,AmazingUser250,Yelp,great product great price great delivery great service great everything,5,2024-09-18,2,232,No,10,0.0,0,1,64,4.7,Yes,Fake
+R013,Rekha Singh,Trustpilot,Nice ambience but portions are small for the price. Desserts were excellent though.,5,2024-10-14,1531,16,Yes,13,0.024,0,0,1,3.8,No,Genuine
+R014,Sneha Iyer,Nykaa,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,3,2024-06-15,1015,25,Yes,12,0.025,0,0,1,4.2,No,Genuine
+R015,SuperShopper281,Amazon,Amazing product! Best purchase ever! Highly recommend to everyone!!!,5,2024-08-28,12,94,No,9,0.044,5,1,21,4.9,No,Fake
+R016,Sneha Iyer,Tripadvisor,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,5,2024-11-04,1497,50,Yes,13,0.034,0,0,1,3.9,Yes,Genuine
+R017,AlwaysHappy416,MakeMyTrip,Top quality! Top service! Top price! Top delivery! Top everything!,1,2024-04-19,5,137,No,10,0.076,5,1,90,1.2,No,Fake
+R018,Arun Verma,Zomato,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,4,2024-11-25,1327,35,Yes,13,0.05,0,0,1,3.3,Yes,Genuine
+R019,SponsoredOpinion72,Yelp,"I review products professionally. Solid build, average performance. 6/10.",4,2024-11-18,606,322,No,9,0.027,0,0,1,4.3,No,Suspicious
+R020,LegitReviewer746,Trustpilot,Never used anything better in my entire life! This is truly magical!,5,2024-02-08,4,128,No,12,0.029,2,1,62,4.6,No,Fake
+R021,Kavya Reddy,Yelp,Service was okay. Food arrived slightly late but taste was good. Will order again.,1,2024-07-30,924,40,Yes,14,0.037,0,0,1,4.0,Yes,Genuine
+R022,SuperShopper956,Trustpilot,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,1,2024-11-30,4,219,No,11,0.246,5,1,147,1.4,No,Fake
+R023,BrandAmbassador15,Flipkart,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-10-19,389,146,Yes,11,0.097,0,0,0,4.6,Yes,Suspicious
+R024,Sunita Rao,Flipkart,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,5,2024-04-12,1784,59,Yes,13,0.034,0,0,0,3.6,Yes,Genuine
+R025,ShopperPro191,Snapdeal,My friend told me this is the best product ever so I bought it too!,5,2024-06-20,15,178,No,15,0.03,1,0,153,4.8,No,Fake
+R026,ContentCreator85,Nykaa,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-12-01,824,105,Yes,11,0.097,0,1,0,4.2,No,Suspicious
+R027,AlwaysHappy881,Tripadvisor,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-12-04,10,60,No,12,0.041,3,1,56,4.6,No,Fake
+R028,TopTester63,Google Maps,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,4,2024-09-14,754,464,No,11,0.097,0,0,1,4.6,Yes,Suspicious
+R029,PRInfluencer25,Flipkart,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,4,2024-02-10,846,390,No,11,0.037,0,0,0,4.4,Yes,Suspicious
+R030,Ananya Bose,Justdial,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,4,2024-02-17,576,38,Yes,12,0.025,0,0,0,3.4,Yes,Genuine
+R031,BrandAmbassador3,Justdial,Brand collaboration. Love supporting small businesses. Quality feels authentic.,5,2024-03-11,1347,364,No,9,0.038,0,1,0,4.2,Yes,Suspicious
+R032,RealUser99465,Trustpilot,Great great great great great great great great quality!,5,2024-11-12,12,196,No,9,0.018,1,1,29,4.9,Yes,Fake
+R033,Priya Sharma,Snapdeal,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,5,2024-12-21,1287,17,Yes,12,0.025,0,0,0,3.7,Yes,Genuine
+R034,BestBuyer2024745,Yelp,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-08-16,14,122,No,8,0.731,7,1,18,4.7,No,Fake
+R035,BestBuyer2024527,Zomato,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-07-27,4,97,No,6,0.097,6,1,81,4.7,No,Fake
+R036,InfluencerLife74,MakeMyTrip,As an influencer I get asked what I use daily. This is genuinely my favorite!,4,2024-10-07,893,482,Yes,15,0.052,1,0,0,4.6,Yes,Suspicious
+R037,SmartBuyer75,Amazon,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-03-10,2,60,No,12,0.041,3,0,38,4.5,No,Fake
+R038,Meena Joshi,Yelp,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,3,2024-03-12,1501,39,Yes,14,0.025,0,0,0,3.6,Yes,Genuine
+R039,BestBuyer2024338,Flipkart,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-03-13,5,159,No,10,0.696,8,1,46,4.7,No,Fake
+R040,GreatProduct22886,Yelp,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,1,2024-10-11,7,31,No,11,0.246,5,1,22,1.1,No,Fake
+R041,Rekha Singh,Nykaa,Product quality is decent but packaging could be better. Delivered on time.,1,2024-04-27,903,57,Yes,12,0.027,0,0,1,3.8,Yes,Genuine
+R042,GreatProduct22373,Yelp,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-06-07,15,199,No,8,0.731,7,1,39,4.9,No,Fake
+R043,ShopperPro159,Zomato,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-09-28,1,61,No,6,0.097,6,0,45,4.7,No,Fake
+R044,Nandita Roy,Flipkart,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,2,2024-03-02,1499,42,Yes,14,0.038,0,0,0,3.5,Yes,Genuine
+R045,ValueKing282,Google Maps,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-11-05,9,77,No,9,0.051,0,0,27,4.6,No,Fake
+R046,AmazingUser463,MakeMyTrip,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-07-24,1,296,No,9,0.097,6,1,23,4.5,No,Fake
+R047,HappyCustomer123676,Zomato,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-10-01,14,65,No,12,0.041,3,1,49,4.8,No,Fake
+R048,ReviewKing713,Tripadvisor,My friend told me this is the best product ever so I bought it too!,5,2024-06-06,15,152,No,15,0.03,1,1,105,4.7,No,Fake
+R049,Divya Pillai,Snapdeal,Service was okay. Food arrived slightly late but taste was good. Will order again.,5,2024-10-22,260,26,Yes,14,0.037,0,0,1,3.5,Yes,Genuine
+R050,AlwaysHappy125,Tripadvisor,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-12-31,15,232,No,9,0.051,0,1,213,4.6,Yes,Fake
+R051,Mohit Khanna,Flipkart,Fabric quality is good but sizing runs small. Order one size up.,3,2024-03-26,421,51,Yes,12,0.031,0,0,1,3.4,Yes,Genuine
+R052,SuperShopper981,Amazon,100% recommend! Zero complaints! Perfect product! Perfect service!,1,2024-08-12,15,205,No,8,0.045,4,0,173,1.1,No,Fake
+R053,DealHunter96,Airbnb,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-04-08,6,39,No,9,0.051,0,0,21,4.7,No,Fake
+R054,Sanjay Das,Nykaa,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,3,2024-04-07,1057,30,Yes,13,0.05,0,0,0,3.6,No,Genuine
+R055,TopTester34,MakeMyTrip,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-05-02,1336,274,No,12,0.037,0,1,2,4.9,Yes,Suspicious
+R056,LegitReviewer383,Swiggy,My friend told me this is the best product ever so I bought it too!,1,2024-06-19,13,64,No,15,0.03,1,1,48,1.1,No,Fake
+R057,Tanvi Joshi,Snapdeal,Ordered this last month. Build quality is solid but battery life is average.,4,2024-07-16,901,16,Yes,13,0.026,0,0,1,4.1,Yes,Genuine
+R058,TechReviewer9935,Yelp,Received complimentary sample. Results seem positive after short-term use.,5,2024-06-15,715,467,Yes,9,0.027,0,0,1,4.9,Yes,Suspicious
+R059,Mohit Khanna,Flipkart,Ordered this last month. Build quality is solid but battery life is average.,3,2024-02-24,978,50,Yes,13,0.026,0,0,0,3.8,Yes,Genuine
+R060,SuperShopper46,Trustpilot,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-03-10,11,119,No,10,0.696,8,1,97,4.7,Yes,Fake
+R061,Vikram Singh,Yelp,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,4,2024-05-07,859,37,No,12,0.051,0,0,1,4.2,No,Genuine
+R062,LegitReviewer885,Tripadvisor,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-09-12,14,111,No,12,0.041,3,1,100,4.7,No,Fake
+R063,TruthTeller697,Tripadvisor,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,1,2024-04-11,2,231,No,8,0.731,7,1,150,1.5,No,Fake
+R064,Gopal Tiwari,Zomato,Good product overall. Setup instructions could be clearer. Performance is satisfactory.,4,2024-09-30,1123,45,Yes,11,0.034,0,0,1,2.8,No,Genuine
+R065,ReviewKing181,Justdial,My friend told me this is the best product ever so I bought it too!,5,2024-10-13,1,157,No,15,0.03,1,0,42,4.9,No,Fake
+R066,BestBuyer2024549,BookMyShow,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-12-09,5,223,No,10,0.076,5,1,26,4.6,No,Fake
+R067,LovingIt99416,Airbnb,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-03-09,15,189,No,10,0.696,8,1,83,4.7,No,Fake
+R068,ReviewKing129,Justdial,great product great price great delivery great service great everything,5,2024-11-01,14,136,No,10,0.0,0,1,67,4.7,Yes,Fake
+R069,SponsoredOpinion54,BookMyShow,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-05-18,1120,223,No,12,0.037,0,1,2,4.7,No,Suspicious
+R070,ShopperPro836,Amazon,Best product on the market! Everyone should buy this immediately!,5,2024-11-01,2,243,No,10,0.031,2,1,193,4.9,No,Fake
+R071,Nandita Roy,Airbnb,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,5,2024-12-22,1720,46,Yes,11,0.043,0,0,0,3.5,No,Genuine
+R072,NotABot123136,MakeMyTrip,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-04-21,1,266,No,12,0.041,3,1,19,4.7,No,Fake
+R073,TopReviewer99657,Nykaa,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-05-19,15,82,No,10,0.076,5,1,23,4.6,No,Fake
+R074,Neha Gupta,Swiggy,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,3,2024-01-21,445,10,Yes,13,0.034,0,0,1,4.0,No,Genuine
+R075,Neha Gupta,BookMyShow,Second order from this seller. Consistent quality. Delivery was faster this time.,4,2024-07-02,891,32,No,12,0.037,0,0,0,3.3,No,Genuine
+R076,Sunita Rao,Google Play,Movie was okay. First half was slow. Second half had good twists. One-time watch.,4,2024-01-09,1318,48,Yes,14,0.049,0,0,1,4.1,No,Genuine
+R077,Harsha Bhat,Yelp,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,5,2024-09-18,368,45,Yes,14,0.025,0,0,0,3.2,Yes,Genuine
+R078,Ananya Bose,Zomato,Fabric quality is good but sizing runs small. Order one size up.,3,2024-08-25,1984,24,Yes,12,0.031,0,0,1,3.3,Yes,Genuine
+R079,Sanjay Das,Google Maps,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,4,2024-01-03,1085,30,Yes,15,0.024,0,0,0,3.4,Yes,Genuine
+R080,SmartBuyer332,Amazon,Great great great great great great great great quality!,5,2024-10-30,3,245,No,9,0.018,1,1,129,4.7,No,Fake
+R081,Amit Kumar,Zomato,Hotel room was clean. AC worked fine. Breakfast had limited vegetarian options.,4,2024-11-28,878,28,Yes,12,0.051,0,0,1,4.2,No,Genuine
+R082,BrandAmbassador56,Yelp,As an influencer I get asked what I use daily. This is genuinely my favorite!,5,2024-01-28,764,462,No,15,0.052,1,1,0,4.7,Yes,Suspicious
+R083,NotABot123278,Swiggy,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-09-04,12,128,No,6,0.097,6,1,105,4.8,Yes,Fake
+R084,AmazingUser301,Yelp,Great great great great great great great great quality!,5,2024-06-01,12,164,No,9,0.018,1,1,137,5.0,No,Fake
+R085,Tanvi Joshi,Yelp,Nice ambience but portions are small for the price. Desserts were excellent though.,4,2024-05-01,1594,49,Yes,13,0.024,0,0,1,4.0,Yes,Genuine
+R086,Ananya Bose,Yelp,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,4,2024-12-24,867,59,Yes,11,0.043,0,0,1,4.1,Yes,Genuine
+R087,Sneha Iyer,Google Maps,Movie was okay. First half was slow. Second half had good twists. One-time watch.,2,2024-04-16,416,15,Yes,14,0.049,0,0,1,3.4,Yes,Genuine
+R088,BuyThis202474,Yelp,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-12-29,7,39,No,10,0.076,5,0,28,4.8,No,Fake
+R089,NotABot123426,Amazon,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-06-01,7,40,No,9,0.097,6,1,32,4.7,No,Fake
+R090,Rahul Verma,Justdial,Product quality is decent but packaging could be better. Delivered on time.,4,2024-07-10,1925,45,Yes,12,0.027,0,0,0,2.8,Yes,Genuine
+R091,BrandAmbassador45,Zomato,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-11-15,349,474,Yes,12,0.037,0,1,2,4.9,No,Suspicious
+R092,TrustMe123714,Yelp,Changed my life! Cannot imagine living without this! Perfect in every way!,1,2024-03-14,7,124,No,12,0.041,3,1,116,1.1,No,Fake
+R093,ReviewKing652,Zomato,great product great price great delivery great service great everything,5,2024-01-18,13,100,No,10,0.0,0,1,90,4.5,No,Fake
+R094,TopTester68,Amazon,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-08-16,606,247,No,12,0.037,0,0,0,4.7,No,Suspicious
+R095,Vikram Singh,Yelp,Product stopped working after 2 months. Customer support was responsive and helpful.,4,2024-11-09,1559,48,Yes,12,0.024,0,0,0,4.0,Yes,Genuine
+R096,BrandAmbassador14,Amazon,Brand collaboration. Love supporting small businesses. Quality feels authentic.,5,2024-11-01,1091,198,No,9,0.038,0,1,2,4.3,Yes,Suspicious
+R097,Sneha Iyer,Justdial,Hotel room was clean. AC worked fine. Breakfast had limited vegetarian options.,3,2024-01-21,563,48,Yes,12,0.051,0,0,0,3.8,Yes,Genuine
+R098,Suresh Nair,Amazon,Product quality is decent but packaging could be better. Delivered on time.,5,2024-02-18,369,36,Yes,12,0.027,0,0,1,3.6,No,Genuine
+R099,HappyCustomer123637,Google Maps,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,1,2024-11-06,11,88,No,9,0.097,6,1,40,1.4,Yes,Fake
+R100,NotABot123725,Google Maps,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-10-30,9,168,No,12,0.041,3,1,131,4.7,No,Fake
+R101,RealUser99633,Airbnb,Amazing product! Best purchase ever! Highly recommend to everyone!!!,5,2024-06-01,11,178,No,9,0.044,5,1,70,4.9,No,Fake
+R102,ValueKing739,Google Play,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-08-06,15,146,No,9,0.097,6,1,110,4.7,Yes,Fake
+R103,BrandAmbassador58,Nykaa,"I review products professionally. Solid build, average performance. 6/10.",4,2024-04-19,370,225,No,9,0.027,0,1,1,4.2,No,Suspicious
+R104,LovingIt99272,MakeMyTrip,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-09-21,4,132,No,10,0.076,5,1,93,4.8,No,Fake
+R105,TrustMe123360,Amazon,Great great great great great great great great quality!,5,2024-07-11,10,235,Yes,9,0.018,1,1,15,4.5,No,Fake
+R106,AffiliatePro97,Swiggy,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-05-10,589,435,No,11,0.097,0,0,2,4.9,Yes,Suspicious
+R107,Rohit Sharma,Trustpilot,Fabric quality is good but sizing runs small. Order one size up.,3,2024-03-24,729,52,Yes,12,0.031,0,0,0,3.2,Yes,Genuine
+R108,Lalita Devi,Google Maps,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,5,2024-06-12,1956,7,Yes,15,0.024,0,0,1,3.1,Yes,Genuine
+R109,Bharat Jain,Airbnb,Service was okay. Food arrived slightly late but taste was good. Will order again.,2,2024-03-05,1736,55,Yes,14,0.037,0,0,0,4.2,No,Genuine
+R110,SponsoredOpinion73,Google Maps,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-08-18,1259,220,No,11,0.097,0,1,2,4.3,Yes,Suspicious
+R111,HappyCustomer123507,Google Play,Best product on the market! Everyone should buy this immediately!,5,2024-01-06,4,211,No,10,0.031,2,1,160,4.9,No,Fake
+R112,RealUser99114,Justdial,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-09-12,2,54,No,6,0.097,6,1,47,4.7,Yes,Fake
+R113,BrandAmbassador10,MakeMyTrip,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-09-12,1024,191,No,11,0.037,0,0,2,4.7,No,Suspicious
+R114,Sunita Rao,Justdial,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,4,2024-12-21,1081,57,Yes,12,0.025,0,0,0,3.2,Yes,Genuine
+R115,SmartBuyer238,MakeMyTrip,My friend told me this is the best product ever so I bought it too!,5,2024-07-22,15,49,No,15,0.03,1,0,19,5.0,Yes,Fake
+R116,TruthTeller522,Yelp,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,1,2024-09-20,1,100,No,10,0.696,8,1,74,1.2,No,Fake
+R117,LovingIt9959,MakeMyTrip,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-10-23,2,64,No,8,0.731,7,1,15,5.0,No,Fake
+R118,AmazingUser392,Google Play,Amazing product! Best purchase ever! Highly recommend to everyone!!!,5,2024-04-24,4,132,No,9,0.044,5,1,47,4.9,No,Fake
+R119,ShopperPro260,Amazon,Never used anything better in my entire life! This is truly magical!,5,2024-07-07,5,212,No,12,0.029,2,0,175,4.7,Yes,Fake
+R120,Kavya Reddy,Tripadvisor,Product quality is decent but packaging could be better. Delivered on time.,4,2024-07-29,536,33,Yes,12,0.027,0,0,0,3.7,Yes,Genuine
+R121,RealUser99703,Flipkart,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-11-20,8,67,No,8,0.045,4,1,17,4.5,No,Fake
+R122,Manish Gupta,BookMyShow,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,4,2024-11-13,600,34,Yes,14,0.038,0,0,1,2.8,Yes,Genuine
+R123,TopReviewer99361,MakeMyTrip,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-02-16,8,49,Yes,8,0.731,7,1,12,4.8,No,Fake
+R124,AffiliatePro96,MakeMyTrip,"I review products professionally. Solid build, average performance. 6/10.",5,2024-04-02,1480,263,No,9,0.027,0,1,1,4.9,Yes,Suspicious
+R125,Bharat Jain,Tripadvisor,Service was okay. Food arrived slightly late but taste was good. Will order again.,3,2024-07-15,1242,5,Yes,14,0.037,0,0,0,3.1,Yes,Genuine
+R126,PRInfluencer37,Amazon,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-10-06,527,236,No,12,0.037,0,0,0,4.8,Yes,Suspicious
+R127,ShopperPro272,Airbnb,Never used anything better in my entire life! This is truly magical!,5,2024-07-13,10,146,No,12,0.029,2,1,51,4.8,No,Fake
+R128,Pooja Mishra,Justdial,Nice ambience but portions are small for the price. Desserts were excellent though.,3,2024-12-03,1520,10,Yes,13,0.024,0,0,1,3.9,No,Genuine
+R129,TopTester90,Tripadvisor,*Ad* Partnered with the brand. Works as claimed based on my limited testing.,4,2024-03-05,339,157,Yes,13,0.039,0,1,0,5.0,Yes,Suspicious
+R130,SuperShopper627,Snapdeal,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,1,2024-02-07,7,275,No,8,0.731,7,1,45,1.1,No,Fake
+R131,Meena Joshi,Snapdeal,Product stopped working after 2 months. Customer support was responsive and helpful.,4,2024-10-19,361,30,No,12,0.024,0,0,0,3.5,No,Genuine
+R132,PRInfluencer97,MakeMyTrip,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-07-02,666,369,No,11,0.037,0,1,0,4.8,Yes,Suspicious
+R133,PaidReviewer83,MakeMyTrip,As an influencer I get asked what I use daily. This is genuinely my favorite!,4,2024-12-09,437,208,Yes,15,0.052,1,1,1,5.0,Yes,Suspicious
+R134,Ravi Shankar,Google Play,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,5,2024-05-28,1657,52,No,11,0.043,0,0,0,3.1,Yes,Genuine
+R135,Sunita Rao,Justdial,Ordered this last month. Build quality is solid but battery life is average.,5,2024-05-17,1345,20,Yes,13,0.026,0,0,0,3.8,Yes,Genuine
+R136,ValueKing223,Nykaa,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-09-02,6,185,No,9,0.097,6,0,56,5.0,Yes,Fake
+R137,RealUser9926,Google Maps,My friend told me this is the best product ever so I bought it too!,5,2024-12-25,13,240,No,15,0.03,1,1,215,4.6,Yes,Fake
+R138,AmazingUser291,Airbnb,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-04-18,9,187,Yes,9,0.051,0,1,161,4.5,No,Fake
+R139,TechReviewer9912,Google Play,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-07-24,1191,125,Yes,11,0.037,0,0,0,4.7,Yes,Suspicious
+R140,Gopal Tiwari,Google Maps,Product quality is decent but packaging could be better. Delivered on time.,5,2024-03-12,1950,33,Yes,12,0.027,0,0,0,2.9,Yes,Genuine
+R141,ShopperPro532,Airbnb,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-06-13,3,253,No,8,0.045,4,1,31,4.7,No,Fake
+R142,ShopperPro641,Nykaa,Never used anything better in my entire life! This is truly magical!,1,2024-11-18,5,97,No,12,0.029,2,1,97,1.2,Yes,Fake
+R143,BestBuyer2024482,Amazon,My friend told me this is the best product ever so I bought it too!,5,2024-04-12,6,144,No,15,0.03,1,1,18,4.9,No,Fake
+R144,ShopperPro157,Nykaa,My friend told me this is the best product ever so I bought it too!,5,2024-04-21,6,242,No,15,0.03,1,1,201,4.8,No,Fake
+R145,Bharat Jain,Trustpilot,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,2,2024-05-28,985,37,Yes,13,0.05,0,0,0,2.9,Yes,Genuine
+R146,Mohit Khanna,Google Play,Nice ambience but portions are small for the price. Desserts were excellent though.,3,2024-05-17,1656,25,Yes,13,0.024,0,0,1,3.5,Yes,Genuine
+R147,LifestyleGuru87,Airbnb,*Ad* Partnered with the brand. Works as claimed based on my limited testing.,5,2024-10-21,1408,101,No,13,0.039,0,0,1,4.6,No,Suspicious
+R148,Manish Gupta,Swiggy,Nice ambience but portions are small for the price. Desserts were excellent though.,5,2024-12-20,1816,29,Yes,13,0.024,0,0,1,3.6,Yes,Genuine
+R149,Ravi Shankar,Tripadvisor,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,5,2024-10-06,696,34,Yes,13,0.05,0,0,1,4.2,No,Genuine
+R150,ContentCreator99,Tripadvisor,Received complimentary sample. Results seem positive after short-term use.,5,2024-07-19,1429,213,No,9,0.027,0,1,1,4.7,Yes,Suspicious
+R151,AlwaysHappy507,Tripadvisor,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-07-06,11,270,No,11,0.246,5,0,63,4.7,No,Fake
+R152,TechReviewer9929,Justdial,*Ad* Partnered with the brand. Works as claimed based on my limited testing.,4,2024-08-28,841,269,Yes,13,0.039,0,1,2,4.9,Yes,Suspicious
+R153,Sanjay Das,Flipkart,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,4,2024-02-22,937,8,Yes,14,0.038,0,0,0,3.3,Yes,Genuine
+R154,Kiran Patel,BookMyShow,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,5,2024-07-20,1694,39,Yes,11,0.043,0,0,1,3.2,Yes,Genuine
+R155,Amit Kumar,Google Play,Ordered this last month. Build quality is solid but battery life is average.,4,2024-06-28,440,54,Yes,13,0.026,0,0,0,3.9,Yes,Genuine
+R156,LifestyleGuru65,Swiggy,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-07-12,1351,211,No,12,0.037,0,1,2,4.4,Yes,Suspicious
+R157,Rohit Sharma,Swiggy,Product quality is decent but packaging could be better. Delivered on time.,4,2024-03-17,1629,48,Yes,12,0.027,0,0,0,2.9,Yes,Genuine
+R158,DealHunter624,Zomato,Great great great great great great great great quality!,5,2024-06-06,3,30,No,9,0.018,1,1,11,5.0,No,Fake
+R159,LifestyleGuru23,Nykaa,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-01-01,1388,337,No,12,0.037,0,0,2,4.3,Yes,Suspicious
+R160,ContentCreator4,MakeMyTrip,Brand collaboration. Love supporting small businesses. Quality feels authentic.,4,2024-11-16,999,281,No,9,0.038,0,0,1,4.6,Yes,Suspicious
+R161,Rahul Verma,Tripadvisor,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,5,2024-05-20,1550,36,Yes,12,0.051,0,0,1,2.8,Yes,Genuine
+R162,Rahul Verma,BookMyShow,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,5,2024-12-22,962,6,Yes,14,0.038,0,0,1,3.2,No,Genuine
+R163,Suresh Nair,Tripadvisor,Movie was okay. First half was slow. Second half had good twists. One-time watch.,5,2024-01-07,1654,31,Yes,14,0.049,0,0,1,4.0,Yes,Genuine
+R164,Sanjay Das,Yelp,App crashes occasionally on Android. Core features work well otherwise.,4,2024-12-21,1497,55,No,10,0.042,0,0,0,3.4,No,Genuine
+R165,Ravi Shankar,Zomato,Nice ambience but portions are small for the price. Desserts were excellent though.,4,2024-01-14,692,8,Yes,13,0.024,0,0,1,3.7,No,Genuine
+R166,SmartBuyer708,Google Play,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-01-22,12,184,No,9,0.051,0,1,38,4.9,No,Fake
+R167,Ananya Bose,Zomato,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,3,2024-03-22,1887,31,Yes,13,0.034,0,0,1,3.9,Yes,Genuine
+R168,Rahul Verma,Google Maps,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,3,2024-02-09,1856,44,Yes,12,0.051,0,0,0,4.1,Yes,Genuine
+R169,Arun Verma,Amazon,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,5,2024-08-15,1555,11,Yes,12,0.051,0,0,0,2.9,Yes,Genuine
+R170,RealUser99335,Yelp,My friend told me this is the best product ever so I bought it too!,5,2024-10-18,3,128,No,15,0.03,1,1,94,4.9,Yes,Fake
+R171,TechReviewer9917,Tripadvisor,Sent for testing. First impressions are positive. Will update after extended use.,4,2024-07-26,1349,100,No,12,0.037,0,0,0,4.4,Yes,Suspicious
+R172,LegitReviewer396,Airbnb,Never used anything better in my entire life! This is truly magical!,5,2024-08-13,3,283,No,12,0.029,2,0,177,4.9,No,Fake
+R173,AmazingUser183,MakeMyTrip,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-08-05,12,144,No,12,0.041,3,1,84,4.7,No,Fake
+R174,Vikram Singh,Yelp,Movie was okay. First half was slow. Second half had good twists. One-time watch.,4,2024-12-16,1365,48,Yes,14,0.049,0,0,1,3.9,Yes,Genuine
+R175,ContentCreator67,Yelp,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-12-22,1385,299,Yes,12,0.037,0,1,1,4.5,No,Suspicious
+R176,LovingIt9952,Swiggy,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-05-09,8,197,No,12,0.041,3,1,79,4.9,No,Fake
+R177,Mohit Khanna,Trustpilot,Ordered this last month. Build quality is solid but battery life is average.,5,2024-05-25,1014,18,No,13,0.026,0,0,0,3.5,Yes,Genuine
+R178,BrandAmbassador42,Google Play,*Ad* Partnered with the brand. Works as claimed based on my limited testing.,5,2024-08-21,1407,219,No,13,0.039,0,0,2,4.6,Yes,Suspicious
+R179,Gopal Tiwari,Tripadvisor,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,2,2024-08-21,384,54,Yes,14,0.038,0,0,0,4.1,Yes,Genuine
+R180,Harsha Bhat,Zomato,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,5,2024-12-17,621,39,Yes,14,0.025,0,0,1,3.7,No,Genuine
+R181,PRInfluencer87,BookMyShow,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-02-11,1247,308,Yes,12,0.037,0,0,2,4.3,Yes,Suspicious
+R182,SuperShopper783,Swiggy,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-10-13,1,284,No,6,0.097,6,0,202,4.8,No,Fake
+R183,Ananya Bose,Swiggy,Second order from this seller. Consistent quality. Delivery was faster this time.,4,2024-04-12,1798,59,Yes,12,0.037,0,0,0,3.0,No,Genuine
+R184,AmazingUser797,Google Play,Great great great great great great great great quality!,5,2024-02-08,2,43,No,9,0.018,1,1,32,4.7,No,Fake
+R185,LegitReviewer391,Tripadvisor,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-06-23,9,35,No,8,0.045,4,0,25,4.9,No,Fake
+R186,TopTester47,Snapdeal,Sent for testing. First impressions are positive. Will update after extended use.,4,2024-06-15,824,495,Yes,12,0.037,0,1,2,4.9,Yes,Suspicious
+R187,InfluencerLife62,Justdial,Received complimentary sample. Results seem positive after short-term use.,5,2024-07-14,1239,428,No,9,0.027,0,1,0,4.6,Yes,Suspicious
+R188,ContentCreator14,Flipkart,As an influencer I get asked what I use daily. This is genuinely my favorite!,5,2024-05-14,1269,360,Yes,15,0.052,1,1,2,4.8,Yes,Suspicious
+R189,RealUser99630,Justdial,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-01-25,1,153,No,11,0.246,5,0,16,4.7,No,Fake
+R190,SuperShopper778,BookMyShow,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-09-27,1,70,Yes,8,0.045,4,1,17,4.8,No,Fake
+R191,Rahul Verma,Google Maps,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,4,2024-07-02,1784,45,Yes,12,0.025,0,0,1,3.5,Yes,Genuine
+R192,HappyCustomer123290,BookMyShow,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-10-05,10,280,No,6,0.097,6,1,255,4.7,No,Fake
+R193,RealUser99297,Flipkart,Changed my life! Cannot imagine living without this! Perfect in every way!,1,2024-08-11,6,117,No,12,0.041,3,1,114,1.3,No,Fake
+R194,ValueKing430,Tripadvisor,My friend told me this is the best product ever so I bought it too!,5,2024-01-17,15,242,No,15,0.03,1,1,165,4.7,No,Fake
+R195,TopTester61,Google Play,As an influencer I get asked what I use daily. This is genuinely my favorite!,5,2024-06-28,985,213,Yes,15,0.052,1,1,1,4.5,Yes,Suspicious
+R196,ReviewKing141,Google Maps,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-11-12,13,81,No,8,0.731,7,1,75,4.5,No,Fake
+R197,InfluencerLife67,Flipkart,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,4,2024-05-09,720,432,No,11,0.097,0,0,0,4.3,Yes,Suspicious
+R198,Harsha Bhat,Zomato,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,4,2024-09-22,1641,11,Yes,14,0.025,0,0,1,2.9,Yes,Genuine
+R199,Priya Sharma,Flipkart,Fabric quality is good but sizing runs small. Order one size up.,4,2024-06-13,1515,44,No,12,0.031,0,0,0,4.1,No,Genuine
+R200,LegitReviewer371,Zomato,Great great great great great great great great quality!,5,2024-02-02,2,54,No,9,0.018,1,0,18,4.9,No,Fake
+R201,Harsha Bhat,Flipkart,Second order from this seller. Consistent quality. Delivery was faster this time.,5,2024-06-14,348,28,Yes,12,0.037,0,0,1,3.6,Yes,Genuine
+R202,Kavya Reddy,Flipkart,Product quality is decent but packaging could be better. Delivered on time.,4,2024-05-26,308,47,Yes,12,0.027,0,0,1,3.9,Yes,Genuine
+R203,RealUser99528,Trustpilot,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-08-16,2,124,No,8,0.731,7,1,39,4.5,No,Fake
+R204,LegitReviewer467,Snapdeal,Best product on the market! Everyone should buy this immediately!,5,2024-12-27,12,152,No,10,0.031,2,1,113,4.5,No,Fake
+R205,ReviewKing759,Amazon,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-10-21,9,141,No,12,0.041,3,1,43,4.8,No,Fake
+R206,Rohit Sharma,MakeMyTrip,Service was okay. Food arrived slightly late but taste was good. Will order again.,4,2024-08-13,748,54,Yes,14,0.037,0,0,1,3.6,No,Genuine
+R207,Pooja Mishra,Airbnb,Good value for money. Works as described. Minor scratches on arrival but functional.,1,2024-02-15,760,18,Yes,13,0.036,0,0,0,3.6,Yes,Genuine
+R208,ContentCreator34,Flipkart,"I review products professionally. Solid build, average performance. 6/10.",5,2024-10-14,567,470,Yes,9,0.027,0,1,1,4.5,Yes,Suspicious
+R209,Gopal Tiwari,Tripadvisor,App crashes occasionally on Android. Core features work well otherwise.,4,2024-05-24,215,37,No,10,0.042,0,0,1,3.6,Yes,Genuine
+R210,TopTester25,Amazon,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-02-14,774,394,Yes,12,0.037,0,0,0,4.7,No,Suspicious
+R211,TechReviewer9967,Flipkart,*Ad* Partnered with the brand. Works as claimed based on my limited testing.,5,2024-11-18,386,205,No,13,0.039,0,0,2,4.2,Yes,Suspicious
+R212,AffiliatePro12,Google Maps,Received complimentary sample. Results seem positive after short-term use.,5,2024-09-07,1237,367,No,9,0.027,0,0,0,4.9,Yes,Suspicious
+R213,TruthTeller325,Justdial,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-08-31,14,288,No,11,0.246,5,1,236,4.9,No,Fake
+R214,TruthTeller549,Amazon,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-12-06,4,103,No,9,0.051,0,0,53,4.6,No,Fake
+R215,Ravi Shankar,BookMyShow,Good value for money. Works as described. Minor scratches on arrival but functional.,5,2024-05-08,993,31,No,13,0.036,0,0,1,4.2,Yes,Genuine
+R216,BuyThis2024223,Nykaa,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-02-01,14,215,Yes,8,0.045,4,1,147,5.0,No,Fake
+R217,FiveStarFarmer468,Google Play,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-05-31,7,277,Yes,6,0.097,6,1,191,4.8,No,Fake
+R218,TrustMe123218,Airbnb,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-10-25,15,264,Yes,8,0.045,4,0,142,4.9,No,Fake
+R219,Pooja Mishra,Tripadvisor,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,5,2024-04-26,1012,54,Yes,12,0.051,0,0,1,3.9,Yes,Genuine
+R220,AmazingUser879,Google Maps,Best product on the market! Everyone should buy this immediately!,5,2024-05-09,8,177,No,10,0.031,2,1,148,4.5,Yes,Fake
+R221,DealHunter485,Justdial,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-04-30,12,116,No,11,0.246,5,1,92,4.8,No,Fake
+R222,Divya Pillai,Flipkart,Service was okay. Food arrived slightly late but taste was good. Will order again.,5,2024-11-14,293,5,No,14,0.037,0,0,0,3.3,No,Genuine
+R223,Meena Joshi,Snapdeal,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,2,2024-03-31,1966,50,Yes,13,0.034,0,0,0,3.5,Yes,Genuine
+R224,PRInfluencer41,Google Play,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-05-20,952,291,No,11,0.037,0,0,2,4.9,No,Suspicious
+R225,Divya Pillai,MakeMyTrip,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,3,2024-12-08,1310,46,No,14,0.038,0,0,0,4.0,Yes,Genuine
+R226,BestBuyer2024625,Google Play,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-12-07,4,284,No,12,0.041,3,0,244,4.8,No,Fake
+R227,SuperShopper6,MakeMyTrip,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-02-15,11,273,No,11,0.246,5,0,155,4.7,No,Fake
+R228,Bharat Jain,Yelp,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,5,2024-12-17,919,39,Yes,14,0.038,0,0,1,3.9,Yes,Genuine
+R229,BuyThis2024546,Yelp,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-11-21,9,204,Yes,9,0.051,0,1,133,4.6,No,Fake
+R230,ReviewKing792,Swiggy,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-12-09,14,81,No,8,0.731,7,1,54,4.6,No,Fake
+R231,Amit Kumar,MakeMyTrip,Good product overall. Setup instructions could be clearer. Performance is satisfactory.,4,2024-09-20,544,25,No,11,0.034,0,0,1,3.2,Yes,Genuine
+R232,Rahul Verma,Snapdeal,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,4,2024-04-06,1883,50,Yes,15,0.024,0,0,1,2.9,Yes,Genuine
+R233,AmazingUser539,Snapdeal,100% recommend! Zero complaints! Perfect product! Perfect service!,1,2024-06-22,3,239,No,8,0.045,4,1,27,1.2,No,Fake
+R234,Mohit Khanna,Amazon,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,5,2024-04-07,537,43,No,14,0.025,0,0,0,2.9,Yes,Genuine
+R235,SponsoredOpinion31,BookMyShow,Received complimentary sample. Results seem positive after short-term use.,5,2024-03-02,723,197,Yes,9,0.027,0,0,2,4.5,Yes,Suspicious
+R236,Tanvi Joshi,Google Play,Ordered this last month. Build quality is solid but battery life is average.,4,2024-01-24,444,37,Yes,13,0.026,0,0,0,3.1,No,Genuine
+R237,InfluencerLife73,Airbnb,*PR gifted* Brand reached out to me. Packaging is premium and scent is lovely!,5,2024-07-29,880,123,Yes,14,0.051,1,1,1,4.9,Yes,Suspicious
+R238,ReviewKing396,Flipkart,Best product on the market! Everyone should buy this immediately!,5,2024-08-29,6,80,No,10,0.031,2,1,26,4.6,No,Fake
+R239,Harsha Bhat,Zomato,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,5,2024-01-12,1862,30,Yes,15,0.024,0,0,0,3.8,Yes,Genuine
+R240,Bharat Jain,Swiggy,Hotel room was clean. AC worked fine. Breakfast had limited vegetarian options.,4,2024-05-02,1243,17,Yes,12,0.051,0,0,1,3.7,No,Genuine
+R241,ValueKing389,Google Play,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-12-04,6,109,No,9,0.097,6,1,100,4.9,Yes,Fake
+R242,PaidReviewer23,Nykaa,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-06-20,495,384,No,12,0.037,0,0,2,4.5,Yes,Suspicious
+R243,TrustMe123682,Swiggy,Best product on the market! Everyone should buy this immediately!,5,2024-07-09,11,272,Yes,10,0.031,2,1,55,4.7,No,Fake
+R244,Manish Gupta,Zomato,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,4,2024-08-23,1869,27,Yes,12,0.051,0,0,1,2.9,No,Genuine
+R245,Tanvi Joshi,Trustpilot,Second order from this seller. Consistent quality. Delivery was faster this time.,5,2024-04-14,1154,11,Yes,12,0.037,0,0,1,3.9,Yes,Genuine
+R246,LovingIt99617,Google Maps,Never used anything better in my entire life! This is truly magical!,5,2024-08-17,2,120,No,12,0.029,2,1,67,4.9,No,Fake
+R247,PRInfluencer8,Swiggy,Received complimentary sample. Results seem positive after short-term use.,5,2024-12-03,855,107,No,9,0.027,0,1,0,4.5,Yes,Suspicious
+R248,Amit Kumar,Google Maps,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,1,2024-01-06,1521,48,Yes,12,0.051,0,0,1,4.2,Yes,Genuine
+R249,BestBuyer2024537,Trustpilot,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-11-21,9,289,No,8,0.731,7,1,18,4.7,No,Fake
+R250,Ravi Shankar,Swiggy,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,2,2024-05-08,542,32,Yes,14,0.038,0,0,1,3.5,Yes,Genuine
+R251,InfluencerLife47,Justdial,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-07-03,645,82,Yes,12,0.037,0,1,2,4.8,Yes,Suspicious
+R252,AmazingUser544,MakeMyTrip,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-04-11,6,209,No,9,0.097,6,1,45,4.6,Yes,Fake
+R253,DealHunter479,Nykaa,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-01-26,1,76,No,11,0.246,5,1,38,4.6,No,Fake
+R254,AlwaysHappy231,Justdial,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,1,2024-10-21,1,155,No,9,0.097,6,1,26,1.2,No,Fake
+R255,NotABot123537,MakeMyTrip,great product great price great delivery great service great everything,5,2024-06-20,6,174,No,10,0.0,0,1,161,4.5,No,Fake
+R256,SponsoredOpinion3,BookMyShow,"I review products professionally. Solid build, average performance. 6/10.",5,2024-09-07,575,208,No,9,0.027,0,0,1,4.6,Yes,Suspicious
+R257,BrandAmbassador51,Google Play,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-10-24,546,437,No,11,0.037,0,0,0,4.2,Yes,Suspicious
+R258,Kavya Reddy,Airbnb,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,4,2024-01-16,1207,31,Yes,14,0.038,0,0,1,3.5,Yes,Genuine
+R259,Rohit Sharma,Zomato,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,2,2024-05-14,1899,46,Yes,14,0.025,0,0,1,4.0,Yes,Genuine
+R260,BestBuyer2024355,Snapdeal,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-03-11,12,275,No,8,0.045,4,1,146,5.0,No,Fake
+R261,Kavya Reddy,Swiggy,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,4,2024-05-24,480,31,Yes,12,0.051,0,0,0,3.5,Yes,Genuine
+R262,Sunita Rao,Airbnb,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,3,2024-11-13,639,16,Yes,14,0.025,0,0,1,4.0,Yes,Genuine
+R263,SmartBuyer374,BookMyShow,Great great great great great great great great quality!,1,2024-07-06,5,197,No,9,0.018,1,0,41,1.4,No,Fake
+R264,NotABot123124,Zomato,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,1,2024-06-18,1,147,No,9,0.097,6,0,23,1.1,No,Fake
+R265,Divya Pillai,Yelp,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,3,2024-12-16,875,19,Yes,13,0.05,0,0,0,3.5,No,Genuine
+R266,AmazingUser631,BookMyShow,great product great price great delivery great service great everything,5,2024-12-14,1,145,No,10,0.0,0,0,113,4.7,No,Fake
+R267,Vikram Singh,Snapdeal,App crashes occasionally on Android. Core features work well otherwise.,3,2024-11-20,1888,55,Yes,10,0.042,0,0,1,3.0,Yes,Genuine
+R268,LifestyleGuru42,Trustpilot,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-08-05,683,360,Yes,12,0.037,0,0,2,4.5,Yes,Suspicious
+R269,TopTester52,Trustpilot,"I review products professionally. Solid build, average performance. 6/10.",5,2024-10-13,710,345,Yes,9,0.027,0,1,0,4.6,Yes,Suspicious
+R270,Priya Sharma,Nykaa,Nice ambience but portions are small for the price. Desserts were excellent though.,4,2024-12-30,1431,56,Yes,13,0.024,0,0,1,3.7,No,Genuine
+R271,Sunita Rao,Flipkart,Service was okay. Food arrived slightly late but taste was good. Will order again.,2,2024-02-05,952,24,Yes,14,0.037,0,0,0,3.7,No,Genuine
+R272,InfluencerLife67,Nykaa,"I review products professionally. Solid build, average performance. 6/10.",4,2024-03-26,347,144,No,9,0.027,0,1,2,4.8,Yes,Suspicious
+R273,LifestyleGuru49,Tripadvisor,Brand collaboration. Love supporting small businesses. Quality feels authentic.,5,2024-02-06,596,165,No,9,0.038,0,1,1,4.7,Yes,Suspicious
+R274,Sanjay Das,Snapdeal,Service was okay. Food arrived slightly late but taste was good. Will order again.,4,2024-10-27,695,28,Yes,14,0.037,0,0,1,3.0,No,Genuine
+R275,SmartBuyer452,Nykaa,Never used anything better in my entire life! This is truly magical!,5,2024-05-08,7,287,No,12,0.029,2,1,110,4.9,Yes,Fake
+R276,TruthTeller735,Yelp,Great great great great great great great great quality!,5,2024-11-23,6,258,Yes,9,0.018,1,1,98,4.8,No,Fake
+R277,Arjun Mehta,MakeMyTrip,Product stopped working after 2 months. Customer support was responsive and helpful.,2,2024-12-12,1000,55,Yes,12,0.024,0,0,1,4.1,Yes,Genuine
+R278,FiveStarFarmer719,Snapdeal,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-11-23,10,117,No,9,0.051,0,1,67,4.7,No,Fake
+R279,FiveStarFarmer588,Zomato,Never used anything better in my entire life! This is truly magical!,5,2024-06-07,9,43,No,12,0.029,2,1,25,4.5,No,Fake
+R280,FiveStarFarmer736,Google Maps,Amazing product! Best purchase ever! Highly recommend to everyone!!!,5,2024-07-26,13,181,No,9,0.044,5,1,52,4.8,No,Fake
+R281,LegitReviewer322,Google Maps,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-11-08,6,211,No,8,0.045,4,1,182,4.8,No,Fake
+R282,AlwaysHappy469,Trustpilot,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-05-15,2,34,No,11,0.246,5,1,11,4.5,No,Fake
+R283,AffiliatePro52,MakeMyTrip,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-07-09,1393,387,No,12,0.037,0,0,1,4.6,No,Suspicious
+R284,Lalita Devi,Swiggy,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,4,2024-03-14,267,16,No,11,0.043,0,0,1,2.8,Yes,Genuine
+R285,Neha Gupta,Flipkart,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,4,2024-10-12,443,36,Yes,14,0.038,0,0,0,2.9,Yes,Genuine
+R286,Ananya Bose,Amazon,Product stopped working after 2 months. Customer support was responsive and helpful.,4,2024-03-07,240,38,Yes,12,0.024,0,0,1,4.1,Yes,Genuine
+R287,Vikram Singh,Trustpilot,Fabric quality is good but sizing runs small. Order one size up.,5,2024-12-10,1464,16,Yes,12,0.031,0,0,1,4.1,Yes,Genuine
+R288,SponsoredOpinion50,Justdial,*Ad* Partnered with the brand. Works as claimed based on my limited testing.,4,2024-07-18,368,181,No,13,0.039,0,1,2,4.7,Yes,Suspicious
+R289,Sunita Rao,MakeMyTrip,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,5,2024-09-19,824,18,Yes,11,0.043,0,0,1,3.1,No,Genuine
+R290,AmazingUser26,BookMyShow,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-02-17,3,82,No,6,0.097,6,1,19,4.8,Yes,Fake
+R291,HappyCustomer123284,Google Play,Great great great great great great great great quality!,5,2024-05-01,9,158,No,9,0.018,1,0,14,4.6,No,Fake
+R292,AmazingUser269,Justdial,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-08-19,4,176,No,6,0.097,6,1,59,4.6,No,Fake
+R293,SmartBuyer659,Airbnb,great product great price great delivery great service great everything,5,2024-10-29,11,191,No,10,0.0,0,0,121,4.8,No,Fake
+R294,PRInfluencer21,Google Maps,Received complimentary sample. Results seem positive after short-term use.,5,2024-10-08,817,179,Yes,9,0.027,0,1,2,4.9,No,Suspicious
+R295,Kiran Patel,Swiggy,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,3,2024-03-20,529,42,Yes,11,0.043,0,0,0,3.3,No,Genuine
+R296,Amit Kumar,Tripadvisor,Movie was okay. First half was slow. Second half had good twists. One-time watch.,2,2024-01-20,585,58,No,14,0.049,0,0,1,3.6,Yes,Genuine
+R297,Meena Joshi,Flipkart,Product quality is decent but packaging could be better. Delivered on time.,3,2024-09-13,281,8,No,12,0.027,0,0,1,3.5,Yes,Genuine
+R298,Sunita Rao,Snapdeal,Service was okay. Food arrived slightly late but taste was good. Will order again.,4,2024-09-06,1306,51,Yes,14,0.037,0,0,1,3.5,Yes,Genuine
+R299,Ananya Bose,Tripadvisor,Movie was okay. First half was slow. Second half had good twists. One-time watch.,3,2024-03-06,1864,9,Yes,14,0.049,0,0,0,3.1,Yes,Genuine
+R300,AlwaysHappy720,Google Play,100% recommend! Zero complaints! Perfect product! Perfect service!,1,2024-11-27,4,165,No,8,0.045,4,1,58,1.2,No,Fake
+R301,FiveStarFarmer977,Trustpilot,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-06-06,10,35,No,6,0.097,6,1,15,4.5,Yes,Fake
+R302,Bharat Jain,Justdial,Good product overall. Setup instructions could be clearer. Performance is satisfactory.,2,2024-12-02,1166,38,Yes,11,0.034,0,0,0,4.2,Yes,Genuine
+R303,Priya Sharma,Airbnb,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,2,2024-05-28,1727,42,Yes,12,0.051,0,0,0,3.3,Yes,Genuine
+R304,NotABot123928,MakeMyTrip,Great great great great great great great great quality!,5,2024-07-10,2,143,No,9,0.018,1,1,14,4.7,No,Fake
+R305,LegitReviewer375,Amazon,Changed my life! Cannot imagine living without this! Perfect in every way!,1,2024-05-23,9,129,No,12,0.041,3,1,57,1.3,No,Fake
+R306,Gopal Tiwari,Amazon,Product stopped working after 2 months. Customer support was responsive and helpful.,1,2024-07-22,303,28,Yes,12,0.024,0,0,1,3.3,Yes,Genuine
+R307,SponsoredOpinion13,Swiggy,Sent for testing. First impressions are positive. Will update after extended use.,4,2024-10-16,696,242,No,12,0.037,0,0,2,4.4,Yes,Suspicious
+R308,Nandita Roy,BookMyShow,Plumber came on time. Fixed the issue properly. Charged as quoted. Recommended.,4,2024-10-18,539,44,Yes,12,0.051,0,0,0,3.9,No,Genuine
+R309,Sunita Rao,Flipkart,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,3,2024-12-05,1637,14,Yes,11,0.043,0,0,0,3.2,No,Genuine
+R310,Vikram Singh,Amazon,Nice ambience but portions are small for the price. Desserts were excellent though.,5,2024-05-17,535,36,No,13,0.024,0,0,1,3.0,Yes,Genuine
+R311,Bharat Jain,Justdial,Second order from this seller. Consistent quality. Delivery was faster this time.,3,2024-10-05,1842,39,Yes,12,0.037,0,0,1,3.9,Yes,Genuine
+R312,Meena Joshi,MakeMyTrip,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,2,2024-09-30,1656,46,Yes,15,0.024,0,0,1,4.0,Yes,Genuine
+R313,BuyThis2024216,Airbnb,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-03-31,6,238,No,9,0.097,6,1,68,4.9,No,Fake
+R314,InfluencerLife84,MakeMyTrip,Brand collaboration. Love supporting small businesses. Quality feels authentic.,5,2024-09-22,417,476,No,9,0.038,0,1,1,4.2,No,Suspicious
+R315,Kiran Patel,Justdial,Movie was okay. First half was slow. Second half had good twists. One-time watch.,3,2024-08-31,324,58,Yes,14,0.049,0,0,1,4.2,No,Genuine
+R316,AlwaysHappy615,Swiggy,Best product on the market! Everyone should buy this immediately!,1,2024-02-28,9,138,No,10,0.031,2,1,35,1.2,No,Fake
+R317,SponsoredOpinion87,BookMyShow,Received complimentary sample. Results seem positive after short-term use.,5,2024-12-10,1144,260,No,9,0.027,0,0,1,4.4,Yes,Suspicious
+R318,PaidReviewer89,Tripadvisor,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-11-16,483,207,Yes,11,0.037,0,0,2,4.5,No,Suspicious
+R319,Rahul Verma,Zomato,Ordered this last month. Build quality is solid but battery life is average.,5,2024-03-30,437,34,Yes,13,0.026,0,0,0,3.2,No,Genuine
+R320,SuperShopper842,Airbnb,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,1,2024-07-29,12,86,No,9,0.097,6,1,61,1.1,No,Fake
+R321,BestBuyer2024734,Justdial,100% recommend! Zero complaints! Perfect product! Perfect service!,1,2024-10-05,4,52,No,8,0.045,4,1,28,1.5,No,Fake
+R322,ShopperPro452,Trustpilot,Great great great great great great great great quality!,5,2024-01-28,5,274,Yes,9,0.018,1,0,259,4.5,No,Fake
+R323,NotABot123706,Swiggy,My friend told me this is the best product ever so I bought it too!,5,2024-11-05,5,286,No,15,0.03,1,1,28,4.9,No,Fake
+R324,Arjun Mehta,Trustpilot,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,4,2024-10-14,1972,27,No,13,0.034,0,0,1,3.0,No,Genuine
+R325,PaidReviewer18,MakeMyTrip,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-07-28,1065,174,No,12,0.037,0,0,0,4.3,Yes,Suspicious
+R326,TrustMe123962,Amazon,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-06-09,5,121,No,8,0.731,7,1,12,4.6,No,Fake
+R327,ContentCreator96,Google Maps,*PR gifted* Brand reached out to me. Packaging is premium and scent is lovely!,5,2024-05-11,1020,261,No,14,0.051,1,0,2,4.4,Yes,Suspicious
+R328,Ananya Bose,Amazon,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,4,2024-10-11,1759,22,Yes,13,0.05,0,0,0,3.1,Yes,Genuine
+R329,RealUser99621,MakeMyTrip,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-12-17,10,127,No,8,0.731,7,1,8,4.8,No,Fake
+R330,TopTester69,Yelp,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-07-08,864,428,Yes,12,0.037,0,0,2,4.8,Yes,Suspicious
+R331,RealUser99384,Snapdeal,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-06-27,15,223,No,12,0.041,3,1,177,4.9,Yes,Fake
+R332,InfluencerLife20,Flipkart,"I review products professionally. Solid build, average performance. 6/10.",5,2024-01-18,806,457,Yes,9,0.027,0,1,0,4.6,Yes,Suspicious
+R333,DealHunter157,Swiggy,Great great great great great great great great quality!,5,2024-11-21,15,145,No,9,0.018,1,1,80,4.9,No,Fake
+R334,LegitReviewer742,Google Maps,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-08-24,3,43,No,10,0.076,5,1,9,4.5,No,Fake
+R335,Mohit Khanna,Google Play,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,5,2024-03-22,1528,56,Yes,14,0.038,0,0,0,3.8,Yes,Genuine
+R336,ReviewKing697,Justdial,great product great price great delivery great service great everything,5,2024-10-07,2,299,No,10,0.0,0,1,47,5.0,Yes,Fake
+R337,Amit Kumar,Snapdeal,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,3,2024-12-24,1413,25,Yes,15,0.024,0,0,1,4.1,Yes,Genuine
+R338,Pooja Mishra,Flipkart,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,1,2024-03-25,1655,12,Yes,13,0.05,0,0,1,3.7,No,Genuine
+R339,DealHunter514,Snapdeal,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-02-08,5,276,No,6,0.097,6,1,181,4.9,No,Fake
+R340,Vikram Singh,Amazon,Good value for money. Works as described. Minor scratches on arrival but functional.,5,2024-11-26,655,13,Yes,13,0.036,0,0,1,3.3,Yes,Genuine
+R341,Leela Rao,Nykaa,Fabric quality is good but sizing runs small. Order one size up.,5,2024-01-16,1228,25,Yes,12,0.031,0,0,0,2.8,Yes,Genuine
+R342,Manish Gupta,Trustpilot,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,3,2024-05-07,381,57,Yes,12,0.025,0,0,1,3.4,Yes,Genuine
+R343,Bharat Jain,MakeMyTrip,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,3,2024-12-01,1164,13,Yes,15,0.024,0,0,0,4.1,No,Genuine
+R344,Sneha Iyer,Flipkart,Product quality is decent but packaging could be better. Delivered on time.,3,2024-07-22,1507,23,No,12,0.027,0,0,1,4.0,Yes,Genuine
+R345,TopReviewer9977,Airbnb,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-03-05,9,111,No,9,0.051,0,0,85,4.8,No,Fake
+R346,Deepa Nair,Tripadvisor,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,4,2024-07-10,1026,32,No,14,0.025,0,0,1,2.8,Yes,Genuine
+R347,BestBuyer2024241,Airbnb,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-01-15,4,76,No,9,0.051,0,0,20,4.7,No,Fake
+R348,TechReviewer9965,Snapdeal,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-03-01,771,119,No,11,0.037,0,0,0,4.3,Yes,Suspicious
+R349,Harsha Bhat,Google Play,App crashes occasionally on Android. Core features work well otherwise.,5,2024-07-15,812,15,Yes,10,0.042,0,0,1,3.7,Yes,Genuine
+R350,FiveStarFarmer331,Google Play,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-06-21,2,172,No,9,0.097,6,1,126,4.8,No,Fake
+R351,Pooja Mishra,Swiggy,Good value for money. Works as described. Minor scratches on arrival but functional.,4,2024-10-20,1327,46,Yes,13,0.036,0,0,0,2.9,Yes,Genuine
+R352,TrustMe123328,Snapdeal,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,1,2024-10-04,3,148,No,10,0.696,8,0,62,1.0,No,Fake
+R353,DealHunter794,Tripadvisor,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-09-26,14,61,No,11,0.246,5,1,43,4.7,No,Fake
+R354,NotABot123478,Airbnb,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-03-04,15,123,No,10,0.696,8,0,72,5.0,Yes,Fake
+R355,Arjun Mehta,Snapdeal,App crashes occasionally on Android. Core features work well otherwise.,3,2024-09-04,353,40,No,10,0.042,0,0,0,3.3,No,Genuine
+R356,Manish Gupta,Swiggy,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,5,2024-07-17,1709,8,Yes,11,0.043,0,0,0,3.6,No,Genuine
+R357,Nandita Roy,Airbnb,App crashes occasionally on Android. Core features work well otherwise.,4,2024-07-28,1046,8,No,10,0.042,0,0,0,3.0,Yes,Genuine
+R358,GreatProduct2297,Flipkart,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-02-01,7,240,No,9,0.051,0,1,180,4.8,No,Fake
+R359,SponsoredOpinion54,Justdial,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-05-04,1286,425,No,12,0.037,0,0,0,4.7,Yes,Suspicious
+R360,NotABot123828,Google Play,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-09-03,1,37,No,10,0.076,5,1,35,4.6,No,Fake
+R361,AlwaysHappy466,Airbnb,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-08-22,15,98,No,10,0.696,8,1,32,4.9,No,Fake
+R362,Ravi Shankar,Airbnb,Service was okay. Food arrived slightly late but taste was good. Will order again.,4,2024-11-29,888,22,Yes,14,0.037,0,0,1,3.2,No,Genuine
+R363,SuperShopper559,Amazon,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-01-21,9,105,No,10,0.076,5,0,54,4.9,No,Fake
+R364,SuperShopper511,Snapdeal,My friend told me this is the best product ever so I bought it too!,5,2024-07-15,12,169,No,15,0.03,1,1,128,4.6,No,Fake
+R365,TopReviewer99969,Amazon,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-12-22,2,79,No,6,0.097,6,1,57,4.7,No,Fake
+R366,PaidReviewer32,Yelp,"I review products professionally. Solid build, average performance. 6/10.",5,2024-11-24,1079,448,Yes,9,0.027,0,1,2,4.7,Yes,Suspicious
+R367,SuperShopper570,Amazon,great product great price great delivery great service great everything,5,2024-01-27,9,198,No,10,0.0,0,1,178,5.0,No,Fake
+R368,Sneha Iyer,Google Play,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,2,2024-05-13,1656,20,No,12,0.025,0,0,1,3.5,No,Genuine
+R369,Leela Rao,Swiggy,Decent restaurant. Paneer dishes were flavorful. Naan was a bit oily.,5,2024-03-29,1997,31,Yes,11,0.043,0,0,1,3.6,Yes,Genuine
+R370,Rekha Singh,Tripadvisor,Nice ambience but portions are small for the price. Desserts were excellent though.,2,2024-03-05,1750,33,Yes,13,0.024,0,0,0,4.2,No,Genuine
+R371,RealUser99911,Yelp,My friend told me this is the best product ever so I bought it too!,5,2024-05-16,7,203,No,15,0.03,1,1,135,4.7,No,Fake
+R372,Mohit Khanna,Swiggy,Ordered this last month. Build quality is solid but battery life is average.,1,2024-10-24,674,59,Yes,13,0.026,0,0,1,3.4,No,Genuine
+R373,BuyThis2024318,Airbnb,My friend told me this is the best product ever so I bought it too!,5,2024-12-16,3,73,No,15,0.03,1,1,50,4.9,No,Fake
+R374,NotABot123550,Flipkart,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-01-24,9,180,No,11,0.246,5,1,100,4.8,No,Fake
+R375,AffiliatePro69,BookMyShow,Gifted for review. Aesthetics are great. Long-term durability remains to be seen.,5,2024-04-20,914,208,No,12,0.037,0,1,1,4.3,Yes,Suspicious
+R376,Manish Gupta,Google Maps,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,2,2024-06-24,1932,7,Yes,13,0.034,0,0,1,3.2,Yes,Genuine
+R377,GreatProduct22736,BookMyShow,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-08-05,4,105,No,12,0.041,3,0,104,4.9,No,Fake
+R378,Mohit Khanna,Zomato,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,5,2024-06-04,1902,49,Yes,13,0.034,0,0,1,3.7,Yes,Genuine
+R379,Meena Joshi,Zomato,Product stopped working after 2 months. Customer support was responsive and helpful.,3,2024-10-09,1895,59,Yes,12,0.024,0,0,0,2.9,Yes,Genuine
+R380,SponsoredOpinion18,Swiggy,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-03-01,1180,474,Yes,11,0.097,0,1,0,4.5,Yes,Suspicious
+R381,Leela Rao,Justdial,Product stopped working after 2 months. Customer support was responsive and helpful.,3,2024-09-10,762,19,Yes,12,0.024,0,0,0,3.9,Yes,Genuine
+R382,InfluencerLife19,Justdial,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-11-01,672,399,No,12,0.037,0,0,2,4.7,No,Suspicious
+R383,Deepa Nair,Google Maps,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,5,2024-03-30,1197,46,Yes,14,0.025,0,0,1,3.1,Yes,Genuine
+R384,TopReviewer99691,Flipkart,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-08-08,7,278,No,6,0.097,6,1,118,4.9,Yes,Fake
+R385,TruthTeller609,MakeMyTrip,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-09-13,9,51,No,12,0.041,3,1,49,4.6,No,Fake
+R386,Lalita Devi,Snapdeal,Fabric quality is good but sizing runs small. Order one size up.,4,2024-12-06,1199,25,Yes,12,0.031,0,0,0,3.8,Yes,Genuine
+R387,Meena Joshi,MakeMyTrip,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,3,2024-09-02,938,5,Yes,14,0.038,0,0,1,4.0,Yes,Genuine
+R388,RealUser99349,Swiggy,Great great great great great great great great quality!,5,2024-01-23,13,202,Yes,9,0.018,1,1,99,4.9,No,Fake
+R389,Harsha Bhat,Justdial,Product stopped working after 2 months. Customer support was responsive and helpful.,3,2024-01-05,1039,6,Yes,12,0.024,0,0,1,3.7,No,Genuine
+R390,Priya Sharma,Flipkart,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,4,2024-05-20,201,32,Yes,15,0.024,0,0,0,4.0,Yes,Genuine
+R391,Pooja Mishra,MakeMyTrip,Movie was okay. First half was slow. Second half had good twists. One-time watch.,2,2024-08-23,1945,36,Yes,14,0.049,0,0,0,2.9,Yes,Genuine
+R392,Lalita Devi,BookMyShow,Product stopped working after 2 months. Customer support was responsive and helpful.,4,2024-07-26,1330,15,Yes,12,0.024,0,0,1,4.1,Yes,Genuine
+R393,ValueKing225,Airbnb,Best product on the market! Everyone should buy this immediately!,5,2024-10-17,13,58,No,10,0.031,2,0,28,4.7,Yes,Fake
+R394,TruthTeller292,Justdial,My friend told me this is the best product ever so I bought it too!,5,2024-12-13,4,152,No,15,0.03,1,1,128,5.0,Yes,Fake
+R395,Rahul Verma,Swiggy,Hotel room was clean. AC worked fine. Breakfast had limited vegetarian options.,3,2024-11-18,368,11,Yes,12,0.051,0,0,0,3.7,Yes,Genuine
+R396,Rahul Verma,Yelp,Ordered this last month. Build quality is solid but battery life is average.,5,2024-02-04,1091,17,No,13,0.026,0,0,0,4.0,Yes,Genuine
+R397,GreatProduct22239,MakeMyTrip,great product great price great delivery great service great everything,1,2024-03-22,4,244,No,10,0.0,0,1,215,1.4,No,Fake
+R398,PRInfluencer92,BookMyShow,"I review products professionally. Solid build, average performance. 6/10.",5,2024-12-21,751,214,Yes,9,0.027,0,1,2,4.8,No,Suspicious
+R399,SuperShopper931,Swiggy,Top quality! Top service! Top price! Top delivery! Top everything!,1,2024-03-04,1,114,No,10,0.076,5,1,113,1.3,No,Fake
+R400,FiveStarFarmer742,Tripadvisor,Never used anything better in my entire life! This is truly magical!,5,2024-09-30,5,81,No,12,0.029,2,1,54,4.6,Yes,Fake
+R401,PaidReviewer11,Nykaa,*PR gifted* Brand reached out to me. Packaging is premium and scent is lovely!,5,2024-02-06,1151,500,Yes,14,0.051,1,1,2,4.4,Yes,Suspicious
+R402,Arun Verma,Tripadvisor,Second order from this seller. Consistent quality. Delivery was faster this time.,5,2024-02-21,430,31,Yes,12,0.037,0,0,0,4.1,Yes,Genuine
+R403,SuperShopper543,Trustpilot,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-10-14,5,157,No,12,0.041,3,0,55,4.7,No,Fake
+R404,Kiran Patel,MakeMyTrip,Good value for money. Works as described. Minor scratches on arrival but functional.,5,2024-12-06,936,49,No,13,0.036,0,0,0,3.0,Yes,Genuine
+R405,ContentCreator47,Tripadvisor,As an influencer I get asked what I use daily. This is genuinely my favorite!,5,2024-11-05,1070,194,No,15,0.052,1,0,1,4.6,Yes,Suspicious
+R406,Rohit Sharma,Snapdeal,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,5,2024-03-06,1189,37,Yes,14,0.025,0,0,0,3.8,Yes,Genuine
+R407,LegitReviewer134,Justdial,Best product on the market! Everyone should buy this immediately!,5,2024-05-28,2,193,No,10,0.031,2,0,123,4.6,Yes,Fake
+R408,NotABot12375,BookMyShow,Amazing product! Best purchase ever! Highly recommend to everyone!!!,5,2024-06-25,7,277,No,9,0.044,5,1,81,4.7,No,Fake
+R409,Harsha Bhat,BookMyShow,Nice ambience but portions are small for the price. Desserts were excellent though.,5,2024-02-08,1611,51,Yes,13,0.024,0,0,1,2.9,Yes,Genuine
+R410,FiveStarFarmer289,Tripadvisor,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-05-21,4,165,No,9,0.097,6,1,21,4.5,No,Fake
+R411,LifestyleGuru21,Trustpilot,Received complimentary sample. Results seem positive after short-term use.,5,2024-07-04,896,443,Yes,9,0.027,0,1,1,4.9,Yes,Suspicious
+R412,InfluencerLife13,Yelp,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,4,2024-01-04,776,122,Yes,11,0.037,0,1,1,4.4,Yes,Suspicious
+R413,BrandAmbassador93,Flipkart,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-11-24,688,348,No,11,0.097,0,1,0,4.7,Yes,Suspicious
+R414,TruthTeller819,Zomato,My friend told me this is the best product ever so I bought it too!,5,2024-03-01,9,37,No,15,0.03,1,0,34,5.0,No,Fake
+R415,InfluencerLife26,Tripadvisor,Sent for testing. First impressions are positive. Will update after extended use.,5,2024-08-16,1402,169,No,12,0.037,0,0,1,4.7,Yes,Suspicious
+R416,GreatProduct22944,Tripadvisor,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-05-16,3,65,No,10,0.696,8,1,34,4.7,No,Fake
+R417,Pooja Mishra,BookMyShow,Product stopped working after 2 months. Customer support was responsive and helpful.,4,2024-12-02,1507,55,Yes,12,0.024,0,0,1,3.5,No,Genuine
+R418,Ananya Bose,Snapdeal,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,2,2024-01-16,1144,8,Yes,12,0.025,0,0,1,4.0,Yes,Genuine
+R419,ShopperPro197,Zomato,Wonderful! Fantastic! Superb! Excellent! Brilliant! Marvelous!,5,2024-05-20,4,182,No,6,0.097,6,1,133,4.7,No,Fake
+R420,HappyCustomer123850,Airbnb,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-06-29,10,55,No,12,0.041,3,1,26,4.9,No,Fake
+R421,Deepa Nair,Amazon,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,5,2024-10-21,277,10,Yes,13,0.034,0,0,0,3.9,Yes,Genuine
+R422,TruthTeller41,Tripadvisor,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-12-09,10,297,No,8,0.731,7,1,168,4.6,No,Fake
+R423,ValueKing972,Tripadvisor,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-09-25,3,248,No,11,0.246,5,0,96,5.0,No,Fake
+R424,Vikram Singh,MakeMyTrip,Nice ambience but portions are small for the price. Desserts were excellent though.,4,2024-05-01,1007,9,Yes,13,0.024,0,0,0,3.4,No,Genuine
+R425,TrustMe123592,Tripadvisor,Never used anything better in my entire life! This is truly magical!,5,2024-02-01,6,151,No,12,0.029,2,0,141,4.6,No,Fake
+R426,TruthTeller710,Yelp,Excellent excellent excellent. Best best best. Buy buy buy.,1,2024-11-12,6,224,No,9,0.051,0,1,202,1.2,No,Fake
+R427,PRInfluencer57,Amazon,Received complimentary sample. Results seem positive after short-term use.,4,2024-11-13,1065,159,No,9,0.027,0,1,0,4.8,Yes,Suspicious
+R428,Arun Verma,Airbnb,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,5,2024-08-07,377,11,Yes,13,0.034,0,0,0,3.6,Yes,Genuine
+R429,TopTester18,Snapdeal,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,4,2024-10-23,456,452,Yes,11,0.097,0,0,2,4.7,No,Suspicious
+R430,Gopal Tiwari,Airbnb,Movie was okay. First half was slow. Second half had good twists. One-time watch.,2,2024-01-25,1122,34,Yes,14,0.049,0,0,0,4.1,Yes,Genuine
+R431,NotABot123937,Amazon,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-07-08,7,98,No,10,0.696,8,1,50,4.8,No,Fake
+R432,Priya Sharma,BookMyShow,Second order from this seller. Consistent quality. Delivery was faster this time.,5,2024-11-12,1380,51,Yes,12,0.037,0,0,1,3.5,No,Genuine
+R433,Lalita Devi,Zomato,Nice ambience but portions are small for the price. Desserts were excellent though.,4,2024-05-02,1000,42,Yes,13,0.024,0,0,0,3.2,Yes,Genuine
+R434,NotABot123266,Justdial,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-05-19,5,296,No,9,0.097,6,1,233,4.5,No,Fake
+R435,DealHunter208,Tripadvisor,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,1,2024-01-29,6,296,No,10,0.696,8,1,258,1.0,No,Fake
+R436,Rekha Singh,Flipkart,Product stopped working after 2 months. Customer support was responsive and helpful.,2,2024-11-26,1723,33,Yes,12,0.024,0,0,1,3.2,Yes,Genuine
+R437,TopTester42,Google Maps,*PR gifted* Brand reached out to me. Packaging is premium and scent is lovely!,5,2024-12-07,1425,346,Yes,14,0.051,1,0,1,4.4,No,Suspicious
+R438,Bharat Jain,Google Play,Nice ambience but portions are small for the price. Desserts were excellent though.,4,2024-06-09,1199,12,No,13,0.024,0,0,1,2.9,Yes,Genuine
+R439,BestBuyer2024302,Zomato,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-06-29,5,218,No,12,0.041,3,1,116,5.0,No,Fake
+R440,InfluencerLife56,MakeMyTrip,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-03-20,1011,326,No,11,0.097,0,1,1,4.4,Yes,Suspicious
+R441,SuperShopper153,Justdial,great product great price great delivery great service great everything,5,2024-08-14,2,157,Yes,10,0.0,0,1,65,4.9,No,Fake
+R442,Tanvi Joshi,Yelp,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,5,2024-09-19,1127,56,Yes,12,0.025,0,0,1,3.6,No,Genuine
+R443,Rohit Sharma,Amazon,Ordered this last month. Build quality is solid but battery life is average.,5,2024-06-23,1467,45,Yes,13,0.026,0,0,0,3.7,Yes,Genuine
+R444,TopReviewer99333,Justdial,Amazing product! Best purchase ever! Highly recommend to everyone!!!,5,2024-03-30,6,250,Yes,9,0.044,5,1,152,4.8,Yes,Fake
+R445,SponsoredOpinion99,Tripadvisor,Brand collaboration. Love supporting small businesses. Quality feels authentic.,4,2024-11-10,1326,341,Yes,9,0.038,0,0,0,4.7,No,Suspicious
+R446,TopTester37,Airbnb,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-08-19,1145,176,No,11,0.097,0,0,1,4.3,Yes,Suspicious
+R447,Mohit Khanna,Airbnb,Good product overall. Setup instructions could be clearer. Performance is satisfactory.,4,2024-09-23,971,59,Yes,11,0.034,0,0,1,3.1,Yes,Genuine
+R448,Rahul Verma,MakeMyTrip,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,5,2024-02-26,1609,35,Yes,14,0.038,0,0,0,2.8,Yes,Genuine
+R449,SponsoredOpinion15,Zomato,"I review products professionally. Solid build, average performance. 6/10.",5,2024-12-19,642,486,Yes,9,0.027,0,0,0,4.2,Yes,Suspicious
+R450,SuperShopper612,Yelp,Great great great great great great great great quality!,5,2024-08-15,14,114,No,9,0.018,1,0,54,4.8,No,Fake
+R451,ContentCreator98,Airbnb,"I review products professionally. Solid build, average performance. 6/10.",5,2024-05-10,962,391,Yes,9,0.027,0,1,1,4.8,No,Suspicious
+R452,PaidReviewer94,Amazon,Received complimentary sample. Results seem positive after short-term use.,4,2024-01-17,330,332,Yes,9,0.027,0,0,1,5.0,Yes,Suspicious
+R453,TopTester2,Amazon,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,5,2024-09-01,579,256,Yes,11,0.097,0,1,2,4.9,No,Suspicious
+R454,SmartBuyer562,BookMyShow,Best product on the market! Everyone should buy this immediately!,5,2024-12-01,10,180,No,10,0.031,2,1,33,4.9,Yes,Fake
+R455,Rahul Verma,Amazon,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,4,2024-05-03,1161,59,Yes,15,0.024,0,0,0,2.9,Yes,Genuine
+R456,Sunita Rao,Swiggy,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,2,2024-10-17,1692,5,No,13,0.05,0,0,1,4.0,No,Genuine
+R457,Amit Kumar,Swiggy,Taste was authentic but service was slow during lunch hours. Reasonable pricing.,4,2024-08-19,623,38,Yes,12,0.025,0,0,1,2.9,No,Genuine
+R458,SuperShopper773,Zomato,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-05-15,11,233,No,10,0.076,5,1,101,4.5,No,Fake
+R459,ReviewKing60,Zomato,WOW WOW WOW! Just WOW! Cannot believe how good this is!!!,5,2024-10-08,2,73,No,11,0.246,5,1,24,4.6,No,Fake
+R460,Vikram Singh,Swiggy,Product stopped working after 2 months. Customer support was responsive and helpful.,4,2024-12-13,1262,40,Yes,12,0.024,0,0,0,3.4,Yes,Genuine
+R461,SuperShopper336,Snapdeal,great product great price great delivery great service great everything,5,2024-06-02,7,183,No,10,0.0,0,1,138,4.8,No,Fake
+R462,Bharat Jain,MakeMyTrip,Good value for money. Works as described. Minor scratches on arrival but functional.,3,2024-12-16,1977,49,No,13,0.036,0,0,1,3.2,No,Genuine
+R463,Amit Kumar,Trustpilot,Visited in the morning to avoid crowds. Guide was informative but spoke too fast.,1,2024-10-23,1969,19,Yes,14,0.025,0,0,0,3.2,No,Genuine
+R464,FiveStarFarmer27,Flipkart,Five stars! Perfect! Love it! Amazing! Outstanding! Best ever!,5,2024-03-30,14,40,No,9,0.097,6,1,25,4.8,No,Fake
+R465,Pooja Mishra,Amazon,App crashes occasionally on Android. Core features work well otherwise.,5,2024-03-13,1689,24,Yes,10,0.042,0,0,0,3.4,No,Genuine
+R466,Ravi Shankar,Swiggy,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,2,2024-08-06,1865,16,No,13,0.034,0,0,1,3.3,No,Genuine
+R467,BrandAmbassador11,Google Play,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,4,2024-03-03,1103,116,No,11,0.037,0,0,1,4.9,No,Suspicious
+R468,Pooja Mishra,BookMyShow,Phone camera is great in daylight but struggles at night. Battery lasts a full day.,5,2024-03-13,1929,60,Yes,15,0.024,0,0,0,3.0,No,Genuine
+R469,Bharat Jain,Snapdeal,Fabric quality is good but sizing runs small. Order one size up.,5,2024-11-01,222,40,No,12,0.031,0,0,0,3.0,Yes,Genuine
+R470,ValueKing127,Nykaa,Best product on the market! Everyone should buy this immediately!,5,2024-01-13,11,164,No,10,0.031,2,1,103,4.6,No,Fake
+R471,DealHunter971,Zomato,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-01-09,7,280,No,8,0.731,7,1,251,4.8,No,Fake
+R472,Ananya Bose,Airbnb,Fabric quality is good but sizing runs small. Order one size up.,3,2024-12-24,961,47,No,12,0.031,0,0,0,2.9,Yes,Genuine
+R473,Vikram Singh,Flipkart,Product stopped working after 2 months. Customer support was responsive and helpful.,1,2024-02-24,927,58,Yes,12,0.024,0,0,1,3.6,Yes,Genuine
+R474,LegitReviewer874,Snapdeal,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-12-13,12,142,No,10,0.076,5,1,132,4.5,No,Fake
+R475,Meena Joshi,BookMyShow,Second order from this seller. Consistent quality. Delivery was faster this time.,3,2024-03-13,250,35,Yes,12,0.037,0,0,1,4.1,Yes,Genuine
+R476,Nandita Roy,Tripadvisor,Hotel room was clean. AC worked fine. Breakfast had limited vegetarian options.,5,2024-12-15,1525,19,Yes,12,0.051,0,0,1,3.7,Yes,Genuine
+R477,PaidReviewer90,Google Maps,As an influencer I get asked what I use daily. This is genuinely my favorite!,4,2024-07-18,1120,482,Yes,15,0.052,1,1,2,4.7,Yes,Suspicious
+R478,Pooja Mishra,Zomato,Received a damaged item. Replacement was sent within 3 days. Satisfied with resolution.,2,2024-10-27,1573,60,Yes,13,0.034,0,0,1,3.6,Yes,Genuine
+R479,TrustMe123119,Justdial,Changed my life! Cannot imagine living without this! Perfect in every way!,5,2024-11-14,14,30,No,12,0.041,3,1,21,4.5,No,Fake
+R480,TechReviewer998,Trustpilot,*Sponsored* Tested this product for 2 weeks. Performance is satisfactory overall.,5,2024-08-12,519,144,No,11,0.037,0,0,2,4.8,Yes,Suspicious
+R481,Suresh Nair,Yelp,Service was okay. Food arrived slightly late but taste was good. Will order again.,3,2024-03-08,1506,43,Yes,14,0.037,0,0,0,4.2,No,Genuine
+R482,Vikram Singh,Justdial,Service was okay. Food arrived slightly late but taste was good. Will order again.,4,2024-03-23,1447,17,Yes,14,0.037,0,0,0,3.3,Yes,Genuine
+R483,TopReviewer994,Trustpilot,Never used anything better in my entire life! This is truly magical!,1,2024-12-19,5,112,No,12,0.029,2,1,62,1.3,Yes,Fake
+R484,TopTester10,Zomato,Affiliate link in bio. Genuinely use this product. Discount code: SAVE15,4,2024-04-01,773,352,Yes,11,0.097,0,0,2,4.4,Yes,Suspicious
+R485,Suresh Nair,Nykaa,Good product overall. Setup instructions could be clearer. Performance is satisfactory.,2,2024-05-14,1314,29,Yes,11,0.034,0,0,1,3.3,Yes,Genuine
+R486,LovingIt99813,Trustpilot,DO NOT HESITATE!! BUY NOW!! YOU WILL LOVE IT!! AMAZING!!,5,2024-10-09,4,101,No,10,0.696,8,1,54,4.8,No,Fake
+R487,Amit Kumar,MakeMyTrip,App crashes occasionally on Android. Core features work well otherwise.,4,2024-05-06,1592,42,Yes,10,0.042,0,0,0,3.9,Yes,Genuine
+R488,HappyCustomer123921,Justdial,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-12-19,11,110,Yes,8,0.045,4,1,83,4.6,No,Fake
+R489,Mohit Khanna,Zomato,Hotel room was clean. AC worked fine. Breakfast had limited vegetarian options.,3,2024-07-06,1641,56,Yes,12,0.051,0,0,0,3.9,Yes,Genuine
+R490,BestBuyer2024242,Justdial,Excellent excellent excellent. Best best best. Buy buy buy.,5,2024-10-20,7,46,No,9,0.051,0,1,31,4.7,No,Fake
+R491,AffiliatePro72,Nykaa,Brand collaboration. Love supporting small businesses. Quality feels authentic.,5,2024-04-27,1483,256,No,9,0.038,0,0,0,4.9,Yes,Suspicious
+R492,Leela Rao,Airbnb,Booked this for a weekend trip. Location was convenient but WiFi was unreliable.,4,2024-08-30,776,53,No,13,0.05,0,0,1,3.4,No,Genuine
+R493,TrustMe123863,Snapdeal,great product great price great delivery great service great everything,1,2024-10-19,14,44,Yes,10,0.0,0,1,44,1.1,No,Fake
+R494,TopTester2,Justdial,"I review products professionally. Solid build, average performance. 6/10.",5,2024-05-07,773,487,Yes,9,0.027,0,0,1,4.9,Yes,Suspicious
+R495,Pooja Mishra,Swiggy,Product works well for basic use. Not suitable for heavy-duty tasks as I hoped.,5,2024-03-12,1514,52,Yes,14,0.038,0,0,0,3.8,Yes,Genuine
+R496,Sunita Rao,Swiggy,App crashes occasionally on Android. Core features work well otherwise.,4,2024-08-24,1354,17,Yes,10,0.042,0,0,0,3.8,Yes,Genuine
+R497,LovingIt99921,BookMyShow,100% recommend! Zero complaints! Perfect product! Perfect service!,5,2024-03-21,13,193,No,8,0.045,4,1,148,4.8,No,Fake
+R498,LegitReviewer283,Zomato,ABSOLUTELY LOVE IT!!! BEST PRODUCT EVER!! MUST BUY!!,5,2024-06-19,14,262,Yes,8,0.731,7,1,171,4.8,Yes,Fake
+R499,DealHunter9,Airbnb,Top quality! Top service! Top price! Top delivery! Top everything!,5,2024-03-20,15,83,No,10,0.076,5,0,22,4.9,No,Fake
+R500,SponsoredOpinion54,Zomato,Sent for testing. First impressions are positive. Will update after extended use.,4,2024-12-16,939,389,Yes,12,0.037,0,1,0,4.7,Yes,Suspicious
